@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '4662'
     url: http://www.gutenberg.org/2009/agents/4662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21955#The-Secret-Wireless--Or-The-Spy-Hunt-of-the-Camp-Brady-Patrol
 gutenberg_issued: '2007-06-28'
 gutenberg_type: Text
 identifiers:
